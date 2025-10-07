@@ -362,7 +362,7 @@ $students = $conn->query("SELECT * FROM students ORDER BY student_id ASC");
     <div class="container">
         <div class="header">
             <h1>🎓 Student Management System</h1>
-            <p><strong>Created by JASH JOSHI-24CS030</strong></p>
+            <p><strong>Created by YASH GAJERA-24CS022</strong></p>
         </div>
         
         <div class="content">
@@ -442,4 +442,5 @@ $students = $conn->query("SELECT * FROM students ORDER BY student_id ASC");
     </div>
 </body>
 </html>
+
 <?php $conn->close(); ?>
